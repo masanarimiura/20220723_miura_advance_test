@@ -1,8 +1,15 @@
 # アプリケーション名
 お問い合わせフォームに利用者がメールアドレスなどの情報を入力し、システム管理者はお問い合わせを検索、閲覧することができる。
-
 <img width="1440" alt="スクリーンショット 0004-07-23 1 28 05" src="https://user-images.githubusercontent.com/104340462/180483310-f336985a-ecd4-4199-9712-e701d631673f.png">
 
+## 作成した目的
+-課題提出のため。
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).ｊ
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+##機能一覧
+-サービス利用者側からの問い合わせをデータベースに保存。氏名、性別、email、postcode、住所、ご意見を保存。
+-システム管理者側は問い合わせを一覧で閲覧可能。検索機能では氏名、性別、email、日付などで検索可能。選択して削除も可能。
+
+##使用技術(実行環境)
+-Laravel Framework 8.83.19
+
+##テーブル設計
