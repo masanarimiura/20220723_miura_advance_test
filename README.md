@@ -13,3 +13,4 @@
 -Laravel Framework 8.83.19
 
 ##テーブル設計
+<img width="566" alt="スクリーンショット 0004-07-23 1 47 29" src="https://user-images.githubusercontent.com/104340462/180486609-ace1d430-1788-476e-ab6c-a97ff704e607.png">
